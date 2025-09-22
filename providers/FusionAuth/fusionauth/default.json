@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "385d8506ff9e3f600d7d4b5221afd21c620e703564ccfc129ee43fa557b371d6",
+      "url": "https://github.com/FusionAuth/terraform-provider-fusionauth/releases/download/v1.2.0/terraform-provider-fusionauth_1.2.0_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "72971877de1f634c37f7792f8a0f820c3e7e103767acd6cde581ae3659306312",
+      "url": "https://github.com/FusionAuth/terraform-provider-fusionauth/releases/download/v1.2.0/terraform-provider-fusionauth_1.2.0_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "607ffabaf2746b3f8ced453b337e5f8dc7106d4e1f8750ed6a5c69e3cf84e264",
+      "url": "https://github.com/FusionAuth/terraform-provider-fusionauth/releases/download/v1.2.0/terraform-provider-fusionauth_1.2.0_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "ab768d7e7c42694714259741e70ea82aa22a9ee9d4e5aa58a25c04c0edfb7ddd",
+      "url": "https://github.com/FusionAuth/terraform-provider-fusionauth/releases/download/v1.2.0/terraform-provider-fusionauth_1.2.0_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "d151494c8c71e1f45e9c80d985a39b646f2df7195d6f214b0c211dcaf638dc5c",
+      "url": "https://github.com/FusionAuth/terraform-provider-fusionauth/releases/download/v1.2.0/terraform-provider-fusionauth_1.2.0_linux_amd64.zip"
+    }
+  },
+  "owner": "FusionAuth",
+  "repo": "fusionauth",
+  "version": "1.2.0"
+}
