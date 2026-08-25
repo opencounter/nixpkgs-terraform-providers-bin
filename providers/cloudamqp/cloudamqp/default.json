@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "60f07f939e89281f74c28f759e09ad0b167e3431cbb9617be9eb94977c39c313",
-      "url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.46.0/terraform-provider-cloudamqp_1.46.0_darwin_arm64.zip"
+      "sha256": "34eedcc89d392f4da1d2c8749229dc776d7facd8ab0b743af180525c617f01bf",
+      "url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.47.0/terraform-provider-cloudamqp_1.47.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "1f5e4a4caa1896ed6b092ad3019b53b35d2e2604639080a1ff835283df939efd",
-      "url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.46.0/terraform-provider-cloudamqp_1.46.0_linux_arm64.zip"
+      "sha256": "b9ed81970a7320cbeb53096fbba468e566c75da685b4cf8449cc8e0b3a64112d",
+      "url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.47.0/terraform-provider-cloudamqp_1.47.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "39ac56837a859b9558255c1bb5613f546b497fc9c3362e4bd244e925d3a977e1",
-      "url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.46.0/terraform-provider-cloudamqp_1.46.0_darwin_amd64.zip"
+      "sha256": "b4fd2b4c7b77d0793397a5e563e6acb237b2f5f70e9f38602af41bac1b511b46",
+      "url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.47.0/terraform-provider-cloudamqp_1.47.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "96b4d237aeaf660b176b72c6a90d191812cdae61dab7e9d710d5009fa79fb0c3",
-      "url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.46.0/terraform-provider-cloudamqp_1.46.0_linux_amd64.zip"
+      "sha256": "ee26a92cf5e372918b17c627821fbadb7b7de253cec21c1105fcd1cc0597bc02",
+      "url": "https://github.com/cloudamqp/terraform-provider-cloudamqp/releases/download/v1.47.0/terraform-provider-cloudamqp_1.47.0_linux_amd64.zip"
     }
   },
   "owner": "cloudamqp",
   "repo": "cloudamqp",
-  "version": "1.46.0"
+  "version": "1.47.0"
 }

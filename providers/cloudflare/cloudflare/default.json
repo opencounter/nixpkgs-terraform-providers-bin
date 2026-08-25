@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "bdcaa21fe92031f5f043a6774821247a26047db92e5a2abfc4bfbd9262358e0c",
-      "url": "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v5.23.0/terraform-provider-cloudflare_5.23.0_darwin_arm64.zip"
+      "sha256": "c523d747a2d8457bc2d2cc00967c419ef38a5ebebd12d5091cf18322b7201f04",
+      "url": "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v5.24.0/terraform-provider-cloudflare_5.24.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "3492a18e8753c2734bb253b70b46c8ec66151198b5221dc7772dab76778a2c06",
-      "url": "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v5.23.0/terraform-provider-cloudflare_5.23.0_linux_arm64.zip"
+      "sha256": "3513243e5582836054076a21abeadd8142a8421df6ec1ead53d96dc37a9e6326",
+      "url": "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v5.24.0/terraform-provider-cloudflare_5.24.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "698ca2b12417c7477744e5410796f4fa0311f7882e1a6c790581795182b3905c",
-      "url": "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v5.23.0/terraform-provider-cloudflare_5.23.0_darwin_amd64.zip"
+      "sha256": "99c7b510b100a605b0c80e0c3665d99c2381b0834f52ad6ca767e161c2ffa416",
+      "url": "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v5.24.0/terraform-provider-cloudflare_5.24.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "ccc101c27eec4ffdcbf43eaedc85a5ba5850c29d38dca7b1d7e20d668edb7a96",
-      "url": "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v5.23.0/terraform-provider-cloudflare_5.23.0_linux_amd64.zip"
+      "sha256": "2390fc5df95addfd47d3f638964a1f9f6192a8c84ad3b1eab554ef88e0ac4091",
+      "url": "https://github.com/cloudflare/terraform-provider-cloudflare/releases/download/v5.24.0/terraform-provider-cloudflare_5.24.0_linux_amd64.zip"
     }
   },
   "owner": "cloudflare",
   "repo": "cloudflare",
-  "version": "5.23.0"
+  "version": "5.24.0"
 }

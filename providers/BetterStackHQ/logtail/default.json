@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "1d1cc2bd65d375de621b0014e938dbea602339684c02172950f44c378f89fc6c",
-      "url": "https://github.com/BetterStackHQ/terraform-provider-logtail/releases/download/v10.18.1/terraform-provider-logtail_10.18.1_darwin_arm64.zip"
+      "sha256": "1adaca0dff805a0948e2d9bc8a9d775d8cc4cab46fff3aa4c2da6a640040353e",
+      "url": "https://github.com/BetterStackHQ/terraform-provider-logtail/releases/download/v10.19.0/terraform-provider-logtail_10.19.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "aa70abcdb3e18bd03ccfc68123c2874c845f3441eb4a14033c8d1e62df9f0425",
-      "url": "https://github.com/BetterStackHQ/terraform-provider-logtail/releases/download/v10.18.1/terraform-provider-logtail_10.18.1_linux_arm64.zip"
+      "sha256": "9c9ef1a62c120fe0333337c37e3b84597490c369df9908fbb8a97ea1e378c0a9",
+      "url": "https://github.com/BetterStackHQ/terraform-provider-logtail/releases/download/v10.19.0/terraform-provider-logtail_10.19.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "ae68ea8b0722e248cf966d3bdfaec5971c0707be4eecf5ca15e0dd166f732c0a",
-      "url": "https://github.com/BetterStackHQ/terraform-provider-logtail/releases/download/v10.18.1/terraform-provider-logtail_10.18.1_linux_386.zip"
+      "sha256": "93643ae9225fa66977d7eaac5a1b7d15beab422cd1b721ff55454e94a238fc33",
+      "url": "https://github.com/BetterStackHQ/terraform-provider-logtail/releases/download/v10.19.0/terraform-provider-logtail_10.19.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "77add39e3d770ca81c9c7c0c47cf6ef12a5424f521a3a5a1dbf72d7af9d05fbf",
-      "url": "https://github.com/BetterStackHQ/terraform-provider-logtail/releases/download/v10.18.1/terraform-provider-logtail_10.18.1_darwin_amd64.zip"
+      "sha256": "4a8e22f1481ad9478bd655e3032dc9c632feb3a841efd4c91b8eeae5beae3b20",
+      "url": "https://github.com/BetterStackHQ/terraform-provider-logtail/releases/download/v10.19.0/terraform-provider-logtail_10.19.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "f94263e59e29a6df6b7cfecda2213a9f56300f7ddf706461bd624d78cbc529a5",
-      "url": "https://github.com/BetterStackHQ/terraform-provider-logtail/releases/download/v10.18.1/terraform-provider-logtail_10.18.1_linux_amd64.zip"
+      "sha256": "875f35b862680e7e123e0300caa5d79fe694440ec895cd28d3d950584b6928d7",
+      "url": "https://github.com/BetterStackHQ/terraform-provider-logtail/releases/download/v10.19.0/terraform-provider-logtail_10.19.0_linux_amd64.zip"
     }
   },
   "owner": "BetterStackHQ",
   "repo": "logtail",
-  "version": "10.18.1"
+  "version": "10.19.0"
 }

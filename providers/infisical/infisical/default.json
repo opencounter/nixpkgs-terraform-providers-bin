@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "f5d89872bbb25b94dbf6ad3457cc59e42dad5be71bf0811ee9b07db8926ff920",
-      "url": "https://github.com/Infisical/terraform-provider-infisical/releases/download/v0.19.24/terraform-provider-infisical_0.19.24_darwin_arm64.zip"
+      "sha256": "4221c829a3ac1e94ded3eeb55196039dec80e2054e7dfadc9633a8f5dc3233d2",
+      "url": "https://github.com/Infisical/terraform-provider-infisical/releases/download/v0.19.25/terraform-provider-infisical_0.19.25_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "c4acfaec967c65bf92c0eef55b66e5b52af6aa8d7b17acb6353dfe8111e15678",
-      "url": "https://github.com/Infisical/terraform-provider-infisical/releases/download/v0.19.24/terraform-provider-infisical_0.19.24_linux_arm64.zip"
+      "sha256": "de3ddf67b4b716dbf53a2510dede0c20bc4aad11308eaac90d378b751a01b849",
+      "url": "https://github.com/Infisical/terraform-provider-infisical/releases/download/v0.19.25/terraform-provider-infisical_0.19.25_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "13a5741091c6c41b5d512d15be345121182cfe8155d08c24d6df67940daea7df",
-      "url": "https://github.com/Infisical/terraform-provider-infisical/releases/download/v0.19.24/terraform-provider-infisical_0.19.24_linux_386.zip"
+      "sha256": "053ce275f7932636144733b8b8bfe8626c6129c688c9ac67f83a9372c1646763",
+      "url": "https://github.com/Infisical/terraform-provider-infisical/releases/download/v0.19.25/terraform-provider-infisical_0.19.25_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "35cf83172576e21e270b19b529f709b35adfa3411479363353bec4065e0aa86e",
-      "url": "https://github.com/Infisical/terraform-provider-infisical/releases/download/v0.19.24/terraform-provider-infisical_0.19.24_darwin_amd64.zip"
+      "sha256": "d54f0bc47689c62ec6240f2eabdb337a2d506123e7d04630b1a07d27cba3ebf9",
+      "url": "https://github.com/Infisical/terraform-provider-infisical/releases/download/v0.19.25/terraform-provider-infisical_0.19.25_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "0ca2ae0a968d5999983ce40275074efec55f9dfe8b3cd5a4bb3f06124dcb514e",
-      "url": "https://github.com/Infisical/terraform-provider-infisical/releases/download/v0.19.24/terraform-provider-infisical_0.19.24_linux_amd64.zip"
+      "sha256": "6750480cadf134f4f84d4643fc898bd99a003a6ae3979fe693d792f2322455e1",
+      "url": "https://github.com/Infisical/terraform-provider-infisical/releases/download/v0.19.25/terraform-provider-infisical_0.19.25_linux_amd64.zip"
     }
   },
   "owner": "infisical",
   "repo": "infisical",
-  "version": "0.19.24"
+  "version": "0.19.25"
 }

@@ -1,23 +1,23 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "a859f31217124018bfed414bccc416220cc9e809808a58bf95f74194d2b8878c",
-      "url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.38.0/terraform-provider-buildkite_1.38.0_darwin_arm64.zip"
+      "sha256": "81fa86d51b02b82f62c71083c93455e16de89fb0da13a5f1f72c145489d9cf1b",
+      "url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.39.0/terraform-provider-buildkite_1.39.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "6d871b90524fae9c397d5c89404a0bfb12dda6cd9d90934957c8c9967a747a09",
-      "url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.38.0/terraform-provider-buildkite_1.38.0_linux_arm64.zip"
+      "sha256": "33a981a8dca8bded68c7446a08c2fd064ec5e9ddf25b8e6c4525f2d1084cc47c",
+      "url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.39.0/terraform-provider-buildkite_1.39.0_linux_arm64.zip"
     },
     "x86_64-darwin": {
-      "sha256": "0f51f457bb5d46e1bd6f28ac487b9593cba8a4bef9508827af29c5f88d789846",
-      "url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.38.0/terraform-provider-buildkite_1.38.0_darwin_amd64.zip"
+      "sha256": "7721c619b4e0416e2dedfd27a3154af575c45d8007e8df1b2df2c4924c1da34b",
+      "url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.39.0/terraform-provider-buildkite_1.39.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "a188ba0a4e1246c30e7e68250d4c6fdeec10e018be690ec2907daa3a26665816",
-      "url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.38.0/terraform-provider-buildkite_1.38.0_linux_amd64.zip"
+      "sha256": "53710e96ce0a9ea0ee79975a09ff290b233ae0201f9b028bb93899cbb129c27e",
+      "url": "https://github.com/buildkite/terraform-provider-buildkite/releases/download/v1.39.0/terraform-provider-buildkite_1.39.0_linux_amd64.zip"
     }
   },
   "owner": "buildkite",
   "repo": "buildkite",
-  "version": "1.38.0"
+  "version": "1.39.0"
 }
