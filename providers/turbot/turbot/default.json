@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "3affc254ef4386daad51ed23737636c3fa846b08c73e6dd69c118338ab6ded75",
-      "url": "https://github.com/turbot/terraform-provider-turbot/releases/download/v1.14.0/terraform-provider-turbot_1.14.0_darwin_arm64.zip"
+      "sha256": "1394d67eb14d4aa7ea5ffdfb74eaa08e2d2341e043bf0c59467aeceef7bea43d",
+      "url": "https://github.com/turbot/terraform-provider-turbot/releases/download/v1.14.1/terraform-provider-turbot_1.14.1_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "fc74c7f45c77255ed1d4b561e171ab1146a761a12a96c713af66f8ae5d06ca90",
-      "url": "https://github.com/turbot/terraform-provider-turbot/releases/download/v1.14.0/terraform-provider-turbot_1.14.0_linux_arm64.zip"
+      "sha256": "3e2a016e9a889b3bc15c8d9dd3ef68db69c5cd2fad24d628952171f448662531",
+      "url": "https://github.com/turbot/terraform-provider-turbot/releases/download/v1.14.1/terraform-provider-turbot_1.14.1_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "af5edd96b2fa97018c5bed916452729c48a1f4fe3943b2f06e8ea156d430b2c2",
-      "url": "https://github.com/turbot/terraform-provider-turbot/releases/download/v1.14.0/terraform-provider-turbot_1.14.0_linux_386.zip"
+      "sha256": "a2c93477e347a78b2fc71b5a43b485dc1c583e0d7cac7c49ef54de851b692ff4",
+      "url": "https://github.com/turbot/terraform-provider-turbot/releases/download/v1.14.1/terraform-provider-turbot_1.14.1_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "8ad39d5852e6e5ed3d498833c222ad0b546c7def49b6375761c2b0f3f5bc4c03",
-      "url": "https://github.com/turbot/terraform-provider-turbot/releases/download/v1.14.0/terraform-provider-turbot_1.14.0_darwin_amd64.zip"
+      "sha256": "c3b951724ebe0fbc87c530082cf796d378086eda34875fb0679c6cebf362cc98",
+      "url": "https://github.com/turbot/terraform-provider-turbot/releases/download/v1.14.1/terraform-provider-turbot_1.14.1_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "f5b631cc115a19da25bcee6018cb8f72ce16ffeccab119184d136c332c11bf46",
-      "url": "https://github.com/turbot/terraform-provider-turbot/releases/download/v1.14.0/terraform-provider-turbot_1.14.0_linux_amd64.zip"
+      "sha256": "cde933fcb31cc2328b72f0f1b92727bbed87d356f37aabcb84cd2a40d20c97b5",
+      "url": "https://github.com/turbot/terraform-provider-turbot/releases/download/v1.14.1/terraform-provider-turbot_1.14.1_linux_amd64.zip"
     }
   },
   "owner": "turbot",
   "repo": "turbot",
-  "version": "1.14.0"
+  "version": "1.14.1"
 }
