@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "befc0fbaaa690a8a96e5ac68fa4e0e8d5affa07751a816ecede118ef90e58edc",
-      "url": "https://github.com/jianyuan/terraform-provider-sentry/releases/download/v0.15.5/terraform-provider-sentry_0.15.5_darwin_arm64.zip"
+      "sha256": "63c8c547cabcb851d705d207cd3aa55617e15d1d7693ee3d9f547340e9fbff26",
+      "url": "https://github.com/jianyuan/terraform-provider-sentry/releases/download/v0.15.6/terraform-provider-sentry_0.15.6_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "b02f28cb360dfd77ffb2bbda7380b7e99217ebca74633bdcfc5c1b4f12a32d9a",
-      "url": "https://github.com/jianyuan/terraform-provider-sentry/releases/download/v0.15.5/terraform-provider-sentry_0.15.5_linux_arm64.zip"
+      "sha256": "7412287b074f01ab1b5322edff69326e2e0617fcb519080e2a0ac5d4338fed80",
+      "url": "https://github.com/jianyuan/terraform-provider-sentry/releases/download/v0.15.6/terraform-provider-sentry_0.15.6_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "f88f39743dcc3ceb27742b7d35170816f6f94839e2d40270885b6f68d9abdbd5",
-      "url": "https://github.com/jianyuan/terraform-provider-sentry/releases/download/v0.15.5/terraform-provider-sentry_0.15.5_linux_386.zip"
+      "sha256": "c9086d2d4d2af625493ed84649e7357b896d0848d3c824af8a925c6b37f2a339",
+      "url": "https://github.com/jianyuan/terraform-provider-sentry/releases/download/v0.15.6/terraform-provider-sentry_0.15.6_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "9f86931c2f7bdf440f1e3b40cfe35fa464d44f510e379e73588b247045c9a239",
-      "url": "https://github.com/jianyuan/terraform-provider-sentry/releases/download/v0.15.5/terraform-provider-sentry_0.15.5_darwin_amd64.zip"
+      "sha256": "31e6103b6d15d1e156e319dce499a817b4464793d98a112da9121959c8f60c4e",
+      "url": "https://github.com/jianyuan/terraform-provider-sentry/releases/download/v0.15.6/terraform-provider-sentry_0.15.6_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "5d2d35177d2ea3691391cf42e3b4c57dca80af3efa77e37065a487e573fa7c87",
-      "url": "https://github.com/jianyuan/terraform-provider-sentry/releases/download/v0.15.5/terraform-provider-sentry_0.15.5_linux_amd64.zip"
+      "sha256": "6d57c09cbc780398af82b0da1b20ff552b723d8516f652bb26c77478aa0a24a9",
+      "url": "https://github.com/jianyuan/terraform-provider-sentry/releases/download/v0.15.6/terraform-provider-sentry_0.15.6_linux_amd64.zip"
     }
   },
   "owner": "jianyuan",
   "repo": "sentry",
-  "version": "0.15.5"
+  "version": "0.15.6"
 }

@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "d0efb7131061372ceda51742d09abad0c8e6c0db832cb638cdaa462be8c7f924",
-      "url": "https://github.com/Keeper-Security/terraform-provider-secretsmanager/releases/download/v1.3.0/terraform-provider-secretsmanager_1.3.0_darwin_arm64.zip"
+      "sha256": "0457546271898a95cb94a30fa23a08738b00fe9cbdcd8d89565b31831c0faa8d",
+      "url": "https://github.com/Keeper-Security/terraform-provider-secretsmanager/releases/download/v1.4.0/terraform-provider-secretsmanager_1.4.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "401508a17e0a6831fdc5395a3f8bd5534ebf51c9b2cda93ea9a132c8c45f7b46",
-      "url": "https://github.com/Keeper-Security/terraform-provider-secretsmanager/releases/download/v1.3.0/terraform-provider-secretsmanager_1.3.0_linux_arm64.zip"
+      "sha256": "51692dbcc530c4a70bc7f7a0021454464a65b8027e8cdb88be38523bc6b4347f",
+      "url": "https://github.com/Keeper-Security/terraform-provider-secretsmanager/releases/download/v1.4.0/terraform-provider-secretsmanager_1.4.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "6c9ceda95b3b6ccd5b697cce4b31bd8aa6a0e8a63c789037dca4c851cc25d4f4",
-      "url": "https://github.com/Keeper-Security/terraform-provider-secretsmanager/releases/download/v1.3.0/terraform-provider-secretsmanager_1.3.0_linux_386.zip"
+      "sha256": "eaff29599367723c35b3e412f2503f87f88892b8608410d0ca2c4b50f59c6302",
+      "url": "https://github.com/Keeper-Security/terraform-provider-secretsmanager/releases/download/v1.4.0/terraform-provider-secretsmanager_1.4.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "e03968f6dce94a6a53c0183f52d24806db43dde6ec506bc53e7d44e8664f7798",
-      "url": "https://github.com/Keeper-Security/terraform-provider-secretsmanager/releases/download/v1.3.0/terraform-provider-secretsmanager_1.3.0_darwin_amd64.zip"
+      "sha256": "8f9d611dc0ab452824acc804dc4ad46eced7ff2300a8c687ced24b61f0b2a0e2",
+      "url": "https://github.com/Keeper-Security/terraform-provider-secretsmanager/releases/download/v1.4.0/terraform-provider-secretsmanager_1.4.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "c45770825074fafaedad44549db034689f1388be0a364207c8572b87abd050ec",
-      "url": "https://github.com/Keeper-Security/terraform-provider-secretsmanager/releases/download/v1.3.0/terraform-provider-secretsmanager_1.3.0_linux_amd64.zip"
+      "sha256": "c17e30620007563ac30638a5796d8075bcee2936a9bb60e1fe2c1ece9a2a235c",
+      "url": "https://github.com/Keeper-Security/terraform-provider-secretsmanager/releases/download/v1.4.0/terraform-provider-secretsmanager_1.4.0_linux_amd64.zip"
     }
   },
   "owner": "Keeper-Security",
   "repo": "secretsmanager",
-  "version": "1.3.0"
+  "version": "1.4.0"
 }
