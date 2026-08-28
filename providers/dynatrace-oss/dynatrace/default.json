@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "72650b8e641405d1035d445c4224b9dec678ec37122e3647f01cae2868163beb",
-      "url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.103.0/terraform-provider-dynatrace_1.103.0_darwin_arm64.zip"
+      "sha256": "5b3b0ff9984cb000d78091f2e66b76d445bed2019b1558f58d32a706daecee67",
+      "url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.104.0/terraform-provider-dynatrace_1.104.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "7a0b0d8280d042dc204aaa9c86dc7c1c18d735d4907b2cf5afe89e3ee65bed62",
-      "url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.103.0/terraform-provider-dynatrace_1.103.0_linux_arm64.zip"
+      "sha256": "63337bd6b77fc0efdc9fbbcc8b0014a7c97fa3c4e314513ceceaac1bbe537d00",
+      "url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.104.0/terraform-provider-dynatrace_1.104.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "004d41d8256ab933d6821cc7efe19d31aab11af9c2fac7dfa07c72402aa685d7",
-      "url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.103.0/terraform-provider-dynatrace_1.103.0_linux_386.zip"
+      "sha256": "b80e1f919337486d39875111f015881f73dcb1012511ba082e3275e0e8d69298",
+      "url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.104.0/terraform-provider-dynatrace_1.104.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "d6512dee437b5f8021f44f463fc693121cd07f8266e2d8c1994e100c0d69edba",
-      "url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.103.0/terraform-provider-dynatrace_1.103.0_darwin_amd64.zip"
+      "sha256": "ef39c1f77a87218f603ac6cbd572ab8afeec18e79891f68c16787f65fa8019f5",
+      "url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.104.0/terraform-provider-dynatrace_1.104.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "6192a6e3bc7d520fd0d5d7de8e0caf4863a4c8e0e575079bd00474b8abf35b83",
-      "url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.103.0/terraform-provider-dynatrace_1.103.0_linux_amd64.zip"
+      "sha256": "7662a74020ff639c04264f6c2c4282dd6545d0ad7b8809c0672336f5e6990468",
+      "url": "https://github.com/dynatrace-oss/terraform-provider-dynatrace/releases/download/v1.104.0/terraform-provider-dynatrace_1.104.0_linux_amd64.zip"
     }
   },
   "owner": "dynatrace-oss",
   "repo": "dynatrace",
-  "version": "1.103.0"
+  "version": "1.104.0"
 }

@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "d760b7d023b4937f1a13a2110bc5be15b0c64a98cafb66c5b6c7ebb1599ca278",
-      "url": "https://github.com/cloudposse/terraform-provider-utils/releases/download/v2.6.0/terraform-provider-utils_2.6.0_darwin_arm64.zip"
+      "sha256": "6e09cc797ff5ec8098acbab17bc6dbc47327baea0095f5c7ec612a14680b1b60",
+      "url": "https://github.com/cloudposse/terraform-provider-utils/releases/download/v2.7.0/terraform-provider-utils_2.7.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d2f87ccf074970430aa5919024f4108e8a7d22ce5528e65b0c2cf0b03a29c859",
-      "url": "https://github.com/cloudposse/terraform-provider-utils/releases/download/v2.6.0/terraform-provider-utils_2.6.0_linux_arm64.zip"
+      "sha256": "0c937eb11aa5571cdc7dc748ea6c5e415c94acf4a31cbefbc6b34e6dca628f47",
+      "url": "https://github.com/cloudposse/terraform-provider-utils/releases/download/v2.7.0/terraform-provider-utils_2.7.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "d7bb825fa8ab807b0a3f340293b11c36a7dee0bd255549222c8e46f2c7534aa8",
-      "url": "https://github.com/cloudposse/terraform-provider-utils/releases/download/v2.6.0/terraform-provider-utils_2.6.0_linux_386.zip"
+      "sha256": "d62b145f0fd7c221e2be20c67bb931800b16be45d8e46e902590e826e380262c",
+      "url": "https://github.com/cloudposse/terraform-provider-utils/releases/download/v2.7.0/terraform-provider-utils_2.7.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "dbbee947b032c21a425ceb1ff2487dde0cce6cc48eb9eb3720d180ee8c63879a",
-      "url": "https://github.com/cloudposse/terraform-provider-utils/releases/download/v2.6.0/terraform-provider-utils_2.6.0_darwin_amd64.zip"
+      "sha256": "b93815f21f60309fa07380cfa9a658526269584a9e9e4f68cd389dada020966e",
+      "url": "https://github.com/cloudposse/terraform-provider-utils/releases/download/v2.7.0/terraform-provider-utils_2.7.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "2a5e4b90ff9973a04bec678045a5a484b6891c44845df45da79475c70f3c30da",
-      "url": "https://github.com/cloudposse/terraform-provider-utils/releases/download/v2.6.0/terraform-provider-utils_2.6.0_linux_amd64.zip"
+      "sha256": "502a2517d505ea51641732538e0e9b7404b01b15a955848273ea11ae0f144964",
+      "url": "https://github.com/cloudposse/terraform-provider-utils/releases/download/v2.7.0/terraform-provider-utils_2.7.0_linux_amd64.zip"
     }
   },
   "owner": "cloudposse",
   "repo": "utils",
-  "version": "2.6.0"
+  "version": "2.7.0"
 }
