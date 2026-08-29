@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "2df206b233eaaf757ca59077ada6fd4e3200e10318f295b69f5d97ca66f1a30c",
-      "url": "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.84/terraform-provider-cloudsmith_0.0.84_darwin_arm64.zip"
+      "sha256": "8d10ba4a6ba73ebce4eded00f9d2372c7848f896972777ff2811766490a3574e",
+      "url": "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.85/terraform-provider-cloudsmith_0.0.85_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "a198883c6cf6bbcec81e868c0db4626f8f64b58af8da9db7778e90ae4a9b8638",
-      "url": "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.84/terraform-provider-cloudsmith_0.0.84_linux_arm64.zip"
+      "sha256": "6e01200280a031988951942aeaeecf79cf59c5ead3430c1b96bf04bafd25d8db",
+      "url": "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.85/terraform-provider-cloudsmith_0.0.85_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "5e0498a1ca341cab90d6c6eb9ddf9922f85dde4cb3cc87d36d43b835e7a0bd12",
-      "url": "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.84/terraform-provider-cloudsmith_0.0.84_linux_386.zip"
+      "sha256": "27c0af0634abcfb3d0ad62a05c12d0e9e251aca3724311d6a94c7eb64fb37c33",
+      "url": "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.85/terraform-provider-cloudsmith_0.0.85_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "092408ae5daf6b28d285e6b401e8849410ef3d7a12ce0898a29802c038afce2b",
-      "url": "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.84/terraform-provider-cloudsmith_0.0.84_darwin_amd64.zip"
+      "sha256": "e58cba5a97d0a5f8affa9e63a57f431c275ad979bfa4bad858ea5828c3d94b01",
+      "url": "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.85/terraform-provider-cloudsmith_0.0.85_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "fdad9c906cc97cb0fd027f1a92b4f40494e4d82168f013534df3a3917f6d22e0",
-      "url": "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.84/terraform-provider-cloudsmith_0.0.84_linux_amd64.zip"
+      "sha256": "abf0dd3399301fdbd386e6fcd8fc922fcc7777e8109949f9842c50fce53042d4",
+      "url": "https://github.com/cloudsmith-io/terraform-provider-cloudsmith/releases/download/v0.0.85/terraform-provider-cloudsmith_0.0.85_linux_amd64.zip"
     }
   },
   "owner": "cloudsmith-io",
   "repo": "cloudsmith",
-  "version": "0.0.84"
+  "version": "0.0.85"
 }

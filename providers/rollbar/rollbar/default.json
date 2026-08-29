@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "f9f5d2e2a6cca1992344b2dcabee951f8492886a36d212f4bbb8d2eee7d46c3f",
-      "url": "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.17.0/terraform-provider-rollbar_1.17.0_darwin_arm64.zip"
+      "sha256": "85575545aa34cfa28d004897913e1863655f0c7064826d548c5ce124bcc41d7e",
+      "url": "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.18.0/terraform-provider-rollbar_1.18.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "201b19a9c97ae5daacc6bcc8e57331532d962acf546915b5c8e48b76df9be91d",
-      "url": "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.17.0/terraform-provider-rollbar_1.17.0_linux_arm64.zip"
+      "sha256": "dce51293ba3d6c5accb5fe1d16ceae1e831e88fa68ab8cdb9c2770ce888ca714",
+      "url": "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.18.0/terraform-provider-rollbar_1.18.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "d50dc07f4058f0d4849d5490979f60f380dd1d57e216dd0503a40a2ed4dc393c",
-      "url": "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.17.0/terraform-provider-rollbar_1.17.0_linux_386.zip"
+      "sha256": "c9203d01aa9549ccac424fce37b91c60e37f71efa4ec31c7fef9ab9ff2b6373f",
+      "url": "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.18.0/terraform-provider-rollbar_1.18.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "61176028c193c19eeace1517a2199bd3a59408cad268e3378dba27bed62006b4",
-      "url": "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.17.0/terraform-provider-rollbar_1.17.0_darwin_amd64.zip"
+      "sha256": "fb3bdcbc4f82533d52d50b54154c2493ec2ec7b89ad880615d95555db7a71b0b",
+      "url": "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.18.0/terraform-provider-rollbar_1.18.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "a81a9506d8e3ea412dfb63202fd8601ce5cba0dd7f5cadbfe785a1cc153725c4",
-      "url": "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.17.0/terraform-provider-rollbar_1.17.0_linux_amd64.zip"
+      "sha256": "8cf9a4e62f7c85b7ea209b4dc13f03181fb22cdc405ff0aba5342012df8f96e0",
+      "url": "https://github.com/rollbar/terraform-provider-rollbar/releases/download/v1.18.0/terraform-provider-rollbar_1.18.0_linux_amd64.zip"
     }
   },
   "owner": "rollbar",
   "repo": "rollbar",
-  "version": "1.17.0"
+  "version": "1.18.0"
 }
