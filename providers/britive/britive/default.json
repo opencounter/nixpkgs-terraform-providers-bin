@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "baf4485fbb8d3475c06e3fcf12483df6dee6309254367cb43a6b2f8d2c748b7f",
-      "url": "https://github.com/britive/terraform-provider-britive/releases/download/v3.0.1/terraform-provider-britive_3.0.1_darwin_arm64.zip"
+      "sha256": "17e2a1c0671344870744235beac66f305f57a7512fc8593d41dbdee782367dc3",
+      "url": "https://github.com/britive/terraform-provider-britive/releases/download/v3.0.2/terraform-provider-britive_3.0.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "9ce0063c440e03a811a417ce8384bb69cdf34d008618cf8ae42667df90e5ccef",
-      "url": "https://github.com/britive/terraform-provider-britive/releases/download/v3.0.1/terraform-provider-britive_3.0.1_linux_arm64.zip"
+      "sha256": "1a0b50361d4edca4d2c2ec234690fce35cfb9033c67104dd214366bbc3505dc4",
+      "url": "https://github.com/britive/terraform-provider-britive/releases/download/v3.0.2/terraform-provider-britive_3.0.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "e3b7d0077fa2662f6f2c83dec9e75a48bf35e659226aea18587f8b3c9ce789fd",
-      "url": "https://github.com/britive/terraform-provider-britive/releases/download/v3.0.1/terraform-provider-britive_3.0.1_linux_386.zip"
+      "sha256": "a2ca4907a322efd66df01f2ae018ddef99a3e76b6e0eee3d8125328792504c9a",
+      "url": "https://github.com/britive/terraform-provider-britive/releases/download/v3.0.2/terraform-provider-britive_3.0.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "374fd2c5628a6050aa87ee2bfa741c9e656217e246874b94a9e362e7f63d8cf4",
-      "url": "https://github.com/britive/terraform-provider-britive/releases/download/v3.0.1/terraform-provider-britive_3.0.1_darwin_amd64.zip"
+      "sha256": "3fc3ade68a7ec7f55b51908a9fbb28231ca50b308482ab721b6c959af0874ccb",
+      "url": "https://github.com/britive/terraform-provider-britive/releases/download/v3.0.2/terraform-provider-britive_3.0.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "8ce768e81d77cc190235c3a6ab1e9eb5e2fd30e6693896cc59c5e20fbdf2fa02",
-      "url": "https://github.com/britive/terraform-provider-britive/releases/download/v3.0.1/terraform-provider-britive_3.0.1_linux_amd64.zip"
+      "sha256": "be1fdbf97863dcac89d12fe81198af424cec7402f557c28131b0995af0e5b221",
+      "url": "https://github.com/britive/terraform-provider-britive/releases/download/v3.0.2/terraform-provider-britive_3.0.2_linux_amd64.zip"
     }
   },
   "owner": "britive",
   "repo": "britive",
-  "version": "3.0.1"
+  "version": "3.0.2"
 }

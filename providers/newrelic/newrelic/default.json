@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "b8a48df3c1ca1a8ec7bbb643e00cb4108c380c813b6c0fa21dfc6e012a2a9a22",
-      "url": "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v3.96.4/terraform-provider-newrelic_3.96.4_darwin_arm64.zip"
+      "sha256": "dca018afb7bbe4bcdffbce799b76085314141a4e81d7079deb51a10902975d96",
+      "url": "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v3.97.0/terraform-provider-newrelic_3.97.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "2adfbd144cb4c375f59424721ba2f4ea633c4f5620afdf44e3fae1c87773dac3",
-      "url": "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v3.96.4/terraform-provider-newrelic_3.96.4_linux_arm64.zip"
+      "sha256": "8390739622e70cbc3ef01e9e45c0ca4ddb86edac4070e9d9c829a30588e3bc0b",
+      "url": "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v3.97.0/terraform-provider-newrelic_3.97.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "56fa202966475823058ee9b19997d85dc3228ac7c9fa407cea89130c1e5382cc",
-      "url": "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v3.96.4/terraform-provider-newrelic_3.96.4_linux_386.zip"
+      "sha256": "62f2a4ed305d7f3d9ce0b022cffbd1a2b50b3235ba1500c38bc53301f10437f3",
+      "url": "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v3.97.0/terraform-provider-newrelic_3.97.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "06f5f9c4725e0cf45d303670dd1a5fd68ad072d7cda2b78c40c767780e8d6f7d",
-      "url": "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v3.96.4/terraform-provider-newrelic_3.96.4_darwin_amd64.zip"
+      "sha256": "5e3bd780cc95328b8fe1fb69010aec22bfef004b039efb7b765d88deb381c9fa",
+      "url": "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v3.97.0/terraform-provider-newrelic_3.97.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "682058dd96f83f2ce598dd8e97b165b1db2004bf43c1dc40b7ff87595f9f7200",
-      "url": "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v3.96.4/terraform-provider-newrelic_3.96.4_linux_amd64.zip"
+      "sha256": "f80b31fd6bf643c9348ea69f293fc22ca98691e15fc2b0a3d5c115564292c336",
+      "url": "https://github.com/newrelic/terraform-provider-newrelic/releases/download/v3.97.0/terraform-provider-newrelic_3.97.0_linux_amd64.zip"
     }
   },
   "owner": "newrelic",
   "repo": "newrelic",
-  "version": "3.96.4"
+  "version": "3.97.0"
 }

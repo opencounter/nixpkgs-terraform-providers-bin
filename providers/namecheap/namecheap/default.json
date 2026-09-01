@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "64d0dad8a26ca1e557d4b15a162f8729096ff2ddf5af8e379157b4772f7e990d",
-      "url": "https://github.com/namecheap/terraform-provider-namecheap/releases/download/v2.9.1/terraform-provider-namecheap_2.9.1_darwin_arm64.zip"
+      "sha256": "0661d4e436762c88926783669c0f3ef16c7c8d778d814aa082b3793495561265",
+      "url": "https://github.com/namecheap/terraform-provider-namecheap/releases/download/v2.9.2/terraform-provider-namecheap_2.9.2_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "a6ad1b2daa81d85bccff8c21f96a624f9d45d08311d10837af1cfe00723dcb90",
-      "url": "https://github.com/namecheap/terraform-provider-namecheap/releases/download/v2.9.1/terraform-provider-namecheap_2.9.1_linux_arm64.zip"
+      "sha256": "f23b0bf837a119acde49e949fb77937b9153cb565035a5fe4be6a6200883b171",
+      "url": "https://github.com/namecheap/terraform-provider-namecheap/releases/download/v2.9.2/terraform-provider-namecheap_2.9.2_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "882db004c114a9b5145ef66e3001b9ed60894e177109a82588def293af98e2da",
-      "url": "https://github.com/namecheap/terraform-provider-namecheap/releases/download/v2.9.1/terraform-provider-namecheap_2.9.1_linux_386.zip"
+      "sha256": "9e5604bb143a13b82f8f16879ed20b21ec38f41548a1779bdb2b856a00d019b9",
+      "url": "https://github.com/namecheap/terraform-provider-namecheap/releases/download/v2.9.2/terraform-provider-namecheap_2.9.2_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "fcc0e62815b3e52e467049264e8432bb3d63047a4fa7c284cda5b16c1fcf065c",
-      "url": "https://github.com/namecheap/terraform-provider-namecheap/releases/download/v2.9.1/terraform-provider-namecheap_2.9.1_darwin_amd64.zip"
+      "sha256": "4a25a09c1dad581ae8e6c13f9bb9aa4ae13b70e4795a68c9a0ce471f33371a0f",
+      "url": "https://github.com/namecheap/terraform-provider-namecheap/releases/download/v2.9.2/terraform-provider-namecheap_2.9.2_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "c094613485a142096492673017c414ff994304f3e3a061bbbaa91177727d43b2",
-      "url": "https://github.com/namecheap/terraform-provider-namecheap/releases/download/v2.9.1/terraform-provider-namecheap_2.9.1_linux_amd64.zip"
+      "sha256": "4735279ea6dab270a1b0e0357006ef068e7982da79dd31e2d4a0f145a8f98647",
+      "url": "https://github.com/namecheap/terraform-provider-namecheap/releases/download/v2.9.2/terraform-provider-namecheap_2.9.2_linux_amd64.zip"
     }
   },
   "owner": "namecheap",
   "repo": "namecheap",
-  "version": "2.9.1"
+  "version": "2.9.2"
 }

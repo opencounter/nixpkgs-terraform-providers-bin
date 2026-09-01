@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "bf973e4c6faec1ca84adbc81f61ecd885bc5f38e4421e952bb855549c4c87326",
-      "url": "https://github.com/buddy/terraform-provider-buddy/releases/download/v1.47.0/terraform-provider-buddy_1.47.0_darwin_arm64.zip"
+      "sha256": "3552c2b68b7ab5bd1eba5ad88ac1d54bda5ec8f392a7e3e12175d716a150f67a",
+      "url": "https://github.com/buddy/terraform-provider-buddy/releases/download/v1.48.0/terraform-provider-buddy_1.48.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "d767582c11c9e9dd00b6dfc721e4475214713e35fab46e1f6ad650e1ba6f6bb2",
-      "url": "https://github.com/buddy/terraform-provider-buddy/releases/download/v1.47.0/terraform-provider-buddy_1.47.0_linux_arm64.zip"
+      "sha256": "29fbb39d762ff7e3084a01116ace0d4ad810f73ad8e13a9857c41e601fd04dad",
+      "url": "https://github.com/buddy/terraform-provider-buddy/releases/download/v1.48.0/terraform-provider-buddy_1.48.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "a1e1e1086f373db0de2d94db5f3121de8e57740e82e9caee43f43403e0c06c22",
-      "url": "https://github.com/buddy/terraform-provider-buddy/releases/download/v1.47.0/terraform-provider-buddy_1.47.0_linux_386.zip"
+      "sha256": "2ef83fc0f83751766252e9d1367d80c794036f31a058d58e0f2e432f81676fe7",
+      "url": "https://github.com/buddy/terraform-provider-buddy/releases/download/v1.48.0/terraform-provider-buddy_1.48.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "de7f685a6df2b3a40cc2b74b381a7bc04c396bf310c7f6fd9196cbc0e7dcd665",
-      "url": "https://github.com/buddy/terraform-provider-buddy/releases/download/v1.47.0/terraform-provider-buddy_1.47.0_darwin_amd64.zip"
+      "sha256": "f5f0a2449d0717d2f2d6d26c9234e265f2179fcb3c074ed4c1a97d6ca6ac7603",
+      "url": "https://github.com/buddy/terraform-provider-buddy/releases/download/v1.48.0/terraform-provider-buddy_1.48.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "43c43a8a1cff94cbe1b8e215cb06287ebcd057d0bd90d61c8da823bb0a548371",
-      "url": "https://github.com/buddy/terraform-provider-buddy/releases/download/v1.47.0/terraform-provider-buddy_1.47.0_linux_amd64.zip"
+      "sha256": "0e99023f55f82ab5efbc79108085cfc003695fc20437d06066dd2815b72e8a0e",
+      "url": "https://github.com/buddy/terraform-provider-buddy/releases/download/v1.48.0/terraform-provider-buddy_1.48.0_linux_amd64.zip"
     }
   },
   "owner": "buddy",
   "repo": "buddy",
-  "version": "1.47.0"
+  "version": "1.48.0"
 }
