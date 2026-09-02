@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "f1f3923d67750ecaeccec8fbc64f6df4b298e166e7bd4156044596e4bb32626f",
-      "url": "https://github.com/vercel/terraform-provider-vercel/releases/download/v5.14.0/terraform-provider-vercel_5.14.0_darwin_arm64.zip"
+      "sha256": "2cbcfb8a616f3b0e22923c3c05ae51582078465a538f6c2a849bd76e869c666c",
+      "url": "https://github.com/vercel/terraform-provider-vercel/releases/download/v5.15.0/terraform-provider-vercel_5.15.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "b9cee22ab804ab0c4bfe649b85c60d99dee7f31d1169528798ccb2eb1ecdf3b6",
-      "url": "https://github.com/vercel/terraform-provider-vercel/releases/download/v5.14.0/terraform-provider-vercel_5.14.0_linux_arm64.zip"
+      "sha256": "9e1d72bcf2f3aeff63b52d811714ac2e3bf965e92ac1f67581e017b2970faa24",
+      "url": "https://github.com/vercel/terraform-provider-vercel/releases/download/v5.15.0/terraform-provider-vercel_5.15.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "46f1685d8137de57f4520e7eeb1609a3d3ec62ce7daeffec04d542a5262d7240",
-      "url": "https://github.com/vercel/terraform-provider-vercel/releases/download/v5.14.0/terraform-provider-vercel_5.14.0_linux_386.zip"
+      "sha256": "2338997c5ebe2bb3f4d2c41ac9671441a2ea526ac50927a7447267f5083a13a3",
+      "url": "https://github.com/vercel/terraform-provider-vercel/releases/download/v5.15.0/terraform-provider-vercel_5.15.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "1914718f6fd19d2a1a9efad4329f17dedefff31a859f8c8d224a1f2e35344ff7",
-      "url": "https://github.com/vercel/terraform-provider-vercel/releases/download/v5.14.0/terraform-provider-vercel_5.14.0_darwin_amd64.zip"
+      "sha256": "39bad5c0dd5312fb6b31c7567f2449dbc881d955cb700a9191a35127f228504a",
+      "url": "https://github.com/vercel/terraform-provider-vercel/releases/download/v5.15.0/terraform-provider-vercel_5.15.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "28a3d45902a460e4251288ce3dbd92333c3302ae74306a210d1aa4e8e1cdeffb",
-      "url": "https://github.com/vercel/terraform-provider-vercel/releases/download/v5.14.0/terraform-provider-vercel_5.14.0_linux_amd64.zip"
+      "sha256": "6559488db16420c32e4d2f7646a7f81d491f6553375e07adeedf54355236fead",
+      "url": "https://github.com/vercel/terraform-provider-vercel/releases/download/v5.15.0/terraform-provider-vercel_5.15.0_linux_amd64.zip"
     }
   },
   "owner": "vercel",
   "repo": "vercel",
-  "version": "5.14.0"
+  "version": "5.15.0"
 }

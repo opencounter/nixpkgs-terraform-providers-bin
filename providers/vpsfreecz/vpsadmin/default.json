@@ -1,27 +1,27 @@
 {
   "archSrc": {
     "aarch64-darwin": {
-      "sha256": "87e1390b75086c7604f723f7a55e38a261d0d46317cd893f3dddc22479d13ccd",
-      "url": "https://github.com/vpsfreecz/terraform-provider-vpsadmin/releases/download/v1.4.0/terraform-provider-vpsadmin_1.4.0_darwin_arm64.zip"
+      "sha256": "2b24a908d914a176d90104bdc8813850718bbdbf288c5ed16de4b7b0e1b24c19",
+      "url": "https://github.com/vpsfreecz/terraform-provider-vpsadmin/releases/download/v1.5.0/terraform-provider-vpsadmin_1.5.0_darwin_arm64.zip"
     },
     "aarch64-linux": {
-      "sha256": "dd2346f22558257cad32f3838ef94bdb5c75b453c1f558bd848a0a21e69c215a",
-      "url": "https://github.com/vpsfreecz/terraform-provider-vpsadmin/releases/download/v1.4.0/terraform-provider-vpsadmin_1.4.0_linux_arm64.zip"
+      "sha256": "197933e7187d8e10f2834542a1c8ecdf7fddbbfe50e2c649e1635d201f38a7ac",
+      "url": "https://github.com/vpsfreecz/terraform-provider-vpsadmin/releases/download/v1.5.0/terraform-provider-vpsadmin_1.5.0_linux_arm64.zip"
     },
     "i686-linux": {
-      "sha256": "ed5905542fbda5374dc5a2ac300a7dec0f591d0647b74d4c313327435a069355",
-      "url": "https://github.com/vpsfreecz/terraform-provider-vpsadmin/releases/download/v1.4.0/terraform-provider-vpsadmin_1.4.0_linux_386.zip"
+      "sha256": "072e2c8c61d2ab6690293924ebcb8a2f03e6b1353380dd4ff9d2efcf87639672",
+      "url": "https://github.com/vpsfreecz/terraform-provider-vpsadmin/releases/download/v1.5.0/terraform-provider-vpsadmin_1.5.0_linux_386.zip"
     },
     "x86_64-darwin": {
-      "sha256": "d7adea00c15b534c012cda8c7884f3386fc1358dc151c2e36a45e8a032a5fca9",
-      "url": "https://github.com/vpsfreecz/terraform-provider-vpsadmin/releases/download/v1.4.0/terraform-provider-vpsadmin_1.4.0_darwin_amd64.zip"
+      "sha256": "9c0502e40402e920840cc5b7e793621346ba439b9f6585809c926cb7bfb5375d",
+      "url": "https://github.com/vpsfreecz/terraform-provider-vpsadmin/releases/download/v1.5.0/terraform-provider-vpsadmin_1.5.0_darwin_amd64.zip"
     },
     "x86_64-linux": {
-      "sha256": "87e12020a8054e5d7957607a67df4c58705bc6c825142fd3ad9035e7d7ee451e",
-      "url": "https://github.com/vpsfreecz/terraform-provider-vpsadmin/releases/download/v1.4.0/terraform-provider-vpsadmin_1.4.0_linux_amd64.zip"
+      "sha256": "3a1db68d8713b7ffc8e09359886aa977443378b6bb65adf94313ba9efb4ec026",
+      "url": "https://github.com/vpsfreecz/terraform-provider-vpsadmin/releases/download/v1.5.0/terraform-provider-vpsadmin_1.5.0_linux_amd64.zip"
     }
   },
   "owner": "vpsfreecz",
   "repo": "vpsadmin",
-  "version": "1.4.0"
+  "version": "1.5.0"
 }
